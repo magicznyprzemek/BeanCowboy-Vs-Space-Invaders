@@ -1,4 +1,4 @@
-# BeanCowboy2
+# BeanCowboy Vs Space Invaders
 ## Screenshots
 ![screenshot1](img/p1.PNG)
 
