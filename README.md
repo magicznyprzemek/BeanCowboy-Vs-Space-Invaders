@@ -1,5 +1,5 @@
 # BeanCowboy Vs Space Invaders
-Try WebGL version in browser: [BCvSI-WebGL](magicznyprzemek.github.io/bcvsi-webgl). 
+Try WebGL version in browser: [BCvSI-WebGL](https://magicznyprzemek.github.io/BCvSI-WebGL/). 
 ## Screenshots
 ![screenshot1](img/p1.PNG)
 
